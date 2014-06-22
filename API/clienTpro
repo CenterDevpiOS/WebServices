@@ -7,7 +7,7 @@
          "name":"UNICASA",
          "hashtag":"#unicasa",
          "description":"esto es un supermercado",
-         "image_url":"http://mejorandoios.herokuapp.com/hashtags_ios.jpg",
+         "image_url":"logo-unicasa.jpg",
          "thumb_url":"logo-unicasa.jpg",
          "start_at":"2013-10-15",
          "ends_at":"2013-10-24"
