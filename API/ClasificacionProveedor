@@ -1,0 +1,57 @@
+{
+   "success":true,
+   "message":"Success.",
+   "data":[
+      {
+         "id":1,
+         "name":"Supermercardos",
+         "hashtag":"#supermercados",
+         "description":"red de supermercados",
+         "image_url":"http://mejorandoios.herokuapp.com/hashtags_ios.jpg",
+         "thumb_url":"logo-unicasa.jpg",
+         "start_at":"2013-10-15",
+         "ends_at":"2013-10-24"
+      },
+      {
+         "id":2,
+         "name":"Farmacias",
+         "hashtag":"#farmacias",
+         "description":"red de farmacias",
+         "image_url":"http://mejorandoios.herokuapp.com/hashtags_ios.jpg",
+         "thumb_url":"logo-excelsior.jpg",
+         "start_at":"2013-10-15",
+         "ends_at":"2013-10-24"
+      },
+      {
+         "id":3,
+         "name":"Ferreterias",
+         "hashtag":"#Ferreterias",
+         "description":"esto es un supermercado",
+         "image_url":"http://mejorandoios.herokuapp.com/hashtags_backend.jpg",
+         "thumb_url":"logo-makro.jpg",
+         "start_at":"2012-12-10",
+         "ends_at":"2012-10-19"
+      },
+      {
+         "id":4,
+         "name":"Vestimenta",
+         "hashtag":"#Vestimenta",
+         "description":"esto es un supermercado",
+         "image_url":"http://mejorandoios.herokuapp.com/hashtags_marketing.jpg",
+         "thumb_url":"logo-central.jpg",
+         "start_at":null,
+         "ends_at":null
+      }
+      {
+         "id":4,
+         "name":"Calzado",
+         "hashtag":"#Calzado",
+         "description":"esto es un supermercado",
+         "image_url":"http://mejorandoios.herokuapp.com/hashtags_marketing.jpg",
+         "thumb_url":"logo-central.jpg",
+         "start_at":null,
+         "ends_at":null
+      }
+   ],
+   "version":"v1"
+}
