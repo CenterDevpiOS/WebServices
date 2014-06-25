@@ -4,9 +4,9 @@
    "data":[
       {
          "id":1,
-         "name":"UNICASA",
-         "hashtag":"#unicasa",
-         "description":"esto es un supermercado",
+         "name":"Supermercardos",
+         "hashtag":"#supermercados",
+         "description":"red de supermercados",
          "image_url":"http://mejorandoios.herokuapp.com/hashtags_ios.jpg",
          "thumb_url":"logo-unicasa.jpg",
          "start_at":"2013-10-15",
@@ -14,9 +14,9 @@
       },
       {
          "id":2,
-         "name":"Excelsior Gama",
-         "hashtag":"#excelsiorgama",
-         "description":"esto es un supermercado",
+         "name":"Farmacias",
+         "hashtag":"#farmacias",
+         "description":"red de farmacias",
          "image_url":"http://mejorandoios.herokuapp.com/hashtags_ios.jpg",
          "thumb_url":"logo-excelsior.jpg",
          "start_at":"2013-10-15",
@@ -24,8 +24,8 @@
       },
       {
          "id":3,
-         "name":"MAKRO",
-         "hashtag":"#makro",
+         "name":"Ferreterias",
+         "hashtag":"#Ferreterias",
          "description":"esto es un supermercado",
          "image_url":"http://mejorandoios.herokuapp.com/hashtags_backend.jpg",
          "thumb_url":"logo-makro.jpg",
@@ -34,8 +34,18 @@
       },
       {
          "id":4,
-         "name":"Central Madeirense",
-         "hashtag":"#gammaexpress",
+         "name":"Vestimenta",
+         "hashtag":"#Vestimenta",
+         "description":"esto es un supermercado",
+         "image_url":"http://mejorandoios.herokuapp.com/hashtags_marketing.jpg",
+         "thumb_url":"logo-central.jpg",
+         "start_at":null,
+         "ends_at":null
+      }
+      {
+         "id":4,
+         "name":"Calzado",
+         "hashtag":"#Calzado",
          "description":"esto es un supermercado",
          "image_url":"http://mejorandoios.herokuapp.com/hashtags_marketing.jpg",
          "thumb_url":"logo-central.jpg",
