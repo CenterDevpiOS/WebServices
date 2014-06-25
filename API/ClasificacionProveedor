@@ -18,7 +18,7 @@
          "hashtag":"#farmacias",
          "description":"red de farmacias",
          "image_url":"http://mejorandoios.herokuapp.com/hashtags_ios.jpg",
-         "thumb_url":"logo-excelsior.jpg",
+         "thumb_url":"icono_farmacia.jpg",
          "start_at":"2013-10-15",
          "ends_at":"2013-10-24"
       },
@@ -28,7 +28,7 @@
          "hashtag":"#Ferreterias",
          "description":"esto es un supermercado",
          "image_url":"http://mejorandoios.herokuapp.com/hashtags_backend.jpg",
-         "thumb_url":"logo-makro.jpg",
+         "thumb_url":"icono_ferreterias.jpg",
          "start_at":"2012-12-10",
          "ends_at":"2012-10-19"
       },
@@ -38,7 +38,7 @@
          "hashtag":"#Vestimenta",
          "description":"esto es un supermercado",
          "image_url":"http://mejorandoios.herokuapp.com/hashtags_marketing.jpg",
-         "thumb_url":"logo-central.jpg",
+         "thumb_url":"icono_vestimenta.jpg",
          "start_at":null,
          "ends_at":null
       },
@@ -48,7 +48,7 @@
          "hashtag":"#Calzado",
          "description":"esto es un supermercado",
          "image_url":"http://mejorandoios.herokuapp.com/hashtags_marketing.jpg",
-         "thumb_url":"logo-central.jpg",
+         "thumb_url":"icono_calzado.jpg",
          "start_at":null,
          "ends_at":null
       }
