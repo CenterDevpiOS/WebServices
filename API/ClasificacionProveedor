@@ -28,7 +28,7 @@
          "hashtag":"#Ferreterias",
          "description":"esto es un supermercado",
          "image_url":"http://mejorandoios.herokuapp.com/hashtags_backend.jpg",
-         "thumb_url":"icono_ferreterias.jpg",
+         "thumb_url":"icono_herramientas.jpg",
          "start_at":"2012-12-10",
          "ends_at":"2012-10-19"
       },
@@ -38,7 +38,7 @@
          "hashtag":"#Vestimenta",
          "description":"esto es un supermercado",
          "image_url":"http://mejorandoios.herokuapp.com/hashtags_marketing.jpg",
-         "thumb_url":"icono_vestimenta.jpg",
+         "thumb_url":"icono_ropa.jpg",
          "start_at":null,
          "ends_at":null
       },
