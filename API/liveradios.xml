@@ -7,7 +7,7 @@
 	http://kapova.com/store/ios/liveradioapp/demo/LRA_logo2.png
 	</rthumbnail>
 	<shoutcasturl>http://icecast.omroep.nl/radio2-sterrennl-aac/</shoutcasturl>
-	<audioformat>mpeg</audioformat>
+	<audioformat>aac</audioformat>
 	<nowplaying>
 	http://kapova.com/store/ios/liveradioapp/xml/nowplaying01.xml
 	</nowplaying>
