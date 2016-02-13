@@ -1,0 +1,21 @@
+<liveradios>
+<radio>
+	<radioid>001</radioid>
+	<radioname>Radio One</radioname>
+	<description>This is the AAC radio codec for testing</description>
+	<rthumbnail>
+	http://kapova.com/store/ios/liveradioapp/demo/LRA_logo2.png
+	</rthumbnail>
+	<shoutcasturl>http://38.96.175.21:9516/</shoutcasturl>
+	<audioformat>aac</audioformat>
+	<nowplaying>
+	http://kapova.com/store/ios/liveradioapp/xml/nowplaying01.xml
+	</nowplaying>
+	<adsurl>
+	http://kapova.com/store/ios/liveradioapp/xml/ads.xml
+	</adsurl>
+	<fburl>http://fb.com/kapovastudio</fburl>
+	<twitterurl>http://twitter.com/radyomood</twitterurl>
+	<youtubeurl>http://youtube.com/kapovastudio</youtubeurl>
+	</radio>
+</liveradios>
