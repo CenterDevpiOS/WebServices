@@ -6,7 +6,7 @@
 	<rthumbnail>
 	http://kapova.com/store/ios/liveradioapp/demo/LRA_logo2.png
 	</rthumbnail>
-	<shoutcasturl>http://38.96.175.21:9516/</shoutcasturl>
+	<shoutcasturl>http://icecast.omroep.nl/radio2-sterrennl-aac/</shoutcasturl>
 	<audioformat>mpeg</audioformat>
 	<nowplaying>
 	http://kapova.com/store/ios/liveradioapp/xml/nowplaying01.xml
