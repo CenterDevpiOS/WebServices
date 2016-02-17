@@ -4,7 +4,7 @@
 	<radioid>001</radioid>
 	<radioname>Dihitall 107.1 FM</radioname>
 	<description>ORT Radio</description>
-	<rthumbnail>http://kapova.com/store/ios/liveradioapp/demo/LRA_logo2.png</rthumbnail>
+	<rthumbnail>https://raw.githubusercontent.com/CenterDevpiOS/img/master/dihitall.png</rthumbnail>
 	<shoutcasturl>http://69.30.238.18:8062/</shoutcasturl>
 	<audioformat>mp3</audioformat>
 	<nowplaying>http://kapova.com/store/ios/liveradioapp/xml/nowplaying01.xml</nowplaying>
