@@ -1,0 +1,142 @@
+<liveradios>
+<radio>
+	<radioid>001</radioid>
+	<radioname>91.9 FM XHEC LA MAS BUENA - SABINAS, COAHUILA</radioname>
+	<description>Grupo M Radio</description>
+	<rthumbnail>
+	https://raw.githubusercontent.com/CenterDevpiOS/img/master/La%20mas%20buena_XXHDPI.png
+	</rthumbnail>
+	<shoutcasturl>http://69.30.238.18:8000/</shoutcasturl>
+	<audioformat>mp3</audioformat>
+	<nowplaying>
+	https://raw.githubusercontent.com/CenterDevpiOS/WebServices/master/API/nowplaying01.xml
+	</nowplaying>
+	<adsurl>
+	https://github.com/CenterDevpiOS/WebServices/raw/master/API/adsGrupoM.xml
+	</adsurl>
+	<fburl>http://fb.com/grupomradio</fburl>
+	<twitterurl>http://twitter.com/GrupoM_Radio</twitterurl>
+	<youtubeurl>https://www.youtube.com/</youtubeurl>
+</radio>
+
+<radio>
+	<radioid>002</radioid>
+	<radioname>105.1 FM XHYJ VIVA FM  - NUEVA ROSITA, COAHUILA</radioname>
+	<description>Grupo M Radio</description>
+	<rthumbnail>
+	https://raw.githubusercontent.com/CenterDevpiOS/img/master/viva%20fm_XXHDPI.png
+	</rthumbnail>
+	<shoutcasturl>http://69.30.238.18:8018/</shoutcasturl>
+	<audioformat>mp3</audioformat>
+	<nowplaying>
+	https://raw.githubusercontent.com/CenterDevpiOS/WebServices/master/API/nowplaying01.xml
+	</nowplaying>
+	<adsurl>
+	https://github.com/CenterDevpiOS/WebServices/raw/master/API/adsGrupoM.xml
+	</adsurl>
+	<fburl>http://fb.com/grupomradio</fburl>
+	<twitterurl>http://twitter.com/GrupoM_Radio</twitterurl>
+	<youtubeurl>https://www.youtube.com/</youtubeurl>
+</radio>
+
+<radio>
+	<radioid>003</radioid>
+	<radioname>106.7 FM XHPQ LA SABROSITA - MUZQUIZ, COAHUILA</radioname>
+	<description>Grupo M Radio</description>
+	<rthumbnail>
+	https://raw.githubusercontent.com/CenterDevpiOS/img/master/La%20Sabrosita_XXHDPI.png
+	</rthumbnail>
+	<shoutcasturl>http://69.30.238.18:8022/</shoutcasturl>
+	<audioformat>mp3</audioformat>
+	<nowplaying>
+	https://raw.githubusercontent.com/CenterDevpiOS/WebServices/master/API/nowplaying01.xml
+	</nowplaying>
+	<adsurl>
+	https://github.com/CenterDevpiOS/WebServices/raw/master/API/adsGrupoM.xml
+	</adsurl>
+	<fburl>http://fb.com/grupomradio</fburl>
+	<twitterurl>http://twitter.com/GrupoM_Radio</twitterurl>
+	<youtubeurl>https://www.youtube.com/</youtubeurl>
+</radio>
+
+<radio>
+	<radioid>004</radioid>
+	<radioname>95.9 FM XHVUC LA GIGANTE - NAVA, COAHUILA</radioname>
+	<description>Grupo M Radio</description>
+	<rthumbnail>
+	https://raw.githubusercontent.com/CenterDevpiOS/img/master/la%20gigante_XXHDPI.png
+	</rthumbnail>
+	<shoutcasturl>http://69.30.238.18:8024/</shoutcasturl>
+	<audioformat>mp3</audioformat>
+	<nowplaying>
+	https://raw.githubusercontent.com/CenterDevpiOS/WebServices/master/API/nowplaying01.xml
+	</nowplaying>
+	<adsurl>
+	https://github.com/CenterDevpiOS/WebServices/raw/master/API/adsGrupoM.xml
+	</adsurl>
+	<fburl>http://fb.com/grupomradio</fburl>
+	<twitterurl>http://twitter.com/GrupoM_Radio</twitterurl>
+	<youtubeurl>https://www.youtube.com/</youtubeurl>
+</radio>
+
+<radio>
+	<radioid>005</radioid>
+	<radioname>97.3 FM XHZR LA TRAVIESA ZARAGOZA, COAHUILA</radioname>
+	<description>Grupo M Radio</description>
+	<rthumbnail>
+	https://github.com/CenterDevpiOS/img/raw/master/La%20traviesa%2097.3_XXHDPI.png
+	</rthumbnail>
+	<shoutcasturl>http://69.30.238.18:8026/</shoutcasturl>
+	<audioformat>mp3</audioformat>
+	<nowplaying>
+	https://raw.githubusercontent.com/CenterDevpiOS/WebServices/master/API/nowplaying01.xml
+	</nowplaying>
+	<adsurl>
+	https://github.com/CenterDevpiOS/WebServices/raw/master/API/adsGrupoM.xml
+	</adsurl>
+	<fburl>http://fb.com/grupomradio</fburl>
+	<twitterurl>http://twitter.com/GrupoM_Radio</twitterurl>
+	<youtubeurl>https://www.youtube.com/</youtubeurl>
+</radio>
+
+<radio>
+	<radioid>006</radioid>
+	<radioname>104.3 FM XHVUN LA CONSENTIDA PIEDRAS NEGRAS, COAHUILA</radioname>
+	<description>Grupo M Radio</description>
+	<rthumbnail>
+	https://raw.githubusercontent.com/CenterDevpiOS/img/master/La%20Consentida_XXHDPI.png
+	</rthumbnail>
+	<shoutcasturl>http://69.30.238.18:8030/</shoutcasturl>
+	<audioformat>mp3</audioformat>
+	<nowplaying>
+	https://raw.githubusercontent.com/CenterDevpiOS/WebServices/master/API/nowplaying01.xml
+	</nowplaying>
+	<adsurl>
+	https://github.com/CenterDevpiOS/WebServices/raw/master/API/adsGrupoM.xml
+	</adsurl>
+	<fburl>http://fb.com/grupomradio</fburl>
+	<twitterurl>http://twitter.com/GrupoM_Radio</twitterurl>
+	<youtubeurl>https://www.youtube.com/</youtubeurl>
+</radio>
+
+<radio>
+	<radioid>007</radioid>
+	<radioname>95.3 FM XHLPZ LA TRAVIESA DE LAMPAZOS ANAHUAC, NUEVO LEON</radioname>
+	<description>Grupo M Radio</description>
+	<rthumbnail>
+	https://raw.githubusercontent.com/CenterDevpiOS/img/master/la%20traviesa%2095.3_XXHDPI.png
+	</rthumbnail>
+	<shoutcasturl>http://69.30.238.18:8032/</shoutcasturl>
+	<audioformat>mp3</audioformat>
+	<nowplaying>
+	https://raw.githubusercontent.com/CenterDevpiOS/WebServices/master/API/nowplaying01.xml
+	</nowplaying>
+	<adsurl>
+	https://github.com/CenterDevpiOS/WebServices/raw/master/API/adsGrupoM.xml
+	</adsurl>
+	<fburl>http://fb.com/grupomradio</fburl>
+	<twitterurl>http://twitter.com/GrupoM_Radio</twitterurl>
+	<youtubeurl>https://www.youtube.com/</youtubeurl>
+</radio>
+
+</liveradios> 
